@@ -1,2 +1,2 @@
-# arithmetic
-Arithmetic code
+# 算法练习
+## [arithmetic.js]()
